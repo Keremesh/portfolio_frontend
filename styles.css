@@ -92,7 +92,7 @@ a {
 }
 .textBlock p {
   font-size: 14px;
-  margin: 6px 8px;
+  margin: 4px 6px;
 }
 
 @media screen and (max-width: 695px) {
